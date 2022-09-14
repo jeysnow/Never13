@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: db0435471a52afe4993887e90f175080
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Maiandra GD
+  fontNames:
+  - Maiandra GD
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 47f8bdb503f004d4b98eeb7cd2322765, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
